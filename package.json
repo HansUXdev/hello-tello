@@ -1,6 +1,6 @@
 {
   "name": "hello-tello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library for controlling a tello drone.",
   "main": "index.js",
   "scripts": {
