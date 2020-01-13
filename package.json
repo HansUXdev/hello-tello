@@ -1,11 +1,11 @@
 {
-  "name": "Drone-Demo",
+  "name": "hello-tello",
   "version": "1.0.0",
-  "description": "Some simple node.js code for controlling a tello drone.",
+  "description": "A simple library for controlling a tello drone.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node hello-drone.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Hans McMurdy",
